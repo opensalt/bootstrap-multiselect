@@ -16,7 +16,6 @@
     "css",
     "less",
     "bootstrap",
-    "jquery",
     "multiselect"
   ],
   "author": "David Stutz",
@@ -24,9 +23,5 @@
   "bugs": {
     "url": "https://github.com/davidstutz/bootstrap-multiselect/issues"
   },
-  "homepage": "http://davidstutz.github.io/bootstrap-multiselect/",
-  "dependencies": {
-    "jquery": ">= 2.2.4",
-    "bootstrap": "~4.5.x"
-  }
+  "homepage": "http://davidstutz.github.io/bootstrap-multiselect/"
 }

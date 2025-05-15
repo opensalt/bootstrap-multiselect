@@ -12,7 +12,6 @@
       "css",
       "less",
       "bootstrap",
-      "jquery",
       "multiselect"
   ],
   "main": [
@@ -25,8 +24,6 @@
     "READMEREADME.md"
   ],
   "dependencies": {
-    "jquery": ">= 2.2.4",
-    "bootstrap": "~4.5.x"
   },
   "ignore": [
     "docs/.*",
